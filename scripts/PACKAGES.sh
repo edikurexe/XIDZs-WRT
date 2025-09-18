@@ -31,7 +31,7 @@ packages_custom+=(
     "modeminfo-serial-xmm_|${REPOS[KIDDIN9]}"
     "modeminfo-serial-fibocom_|${REPOS[KIDDIN9]}"
     "modeminfo-serial-sierra_|${REPOS[KIDDIN9]}"
-    #"luci-app-mmconfig_|${REPOS[OPENWRTRU]}"
+    "iwlwifi-firmware-iwl7265_|${REPOS[OPENWRT]}/base"
     
     "atinout_|${REPOS[KIDDIN9]}"
     "luci-app-diskman_|${REPOS[KIDDIN9]}"
@@ -41,7 +41,7 @@ packages_custom+=(
     
     "luci-app-lite-watchdog_|${REPOS[KIDDIN9]}"
     #"luci-app-speedtest-web_|${REPOS[KIDDIN9]}"
-    #"luci-app-fancontrol_|${REPOS[KIDDIN9]}"
+    "luci-app-fancontrol_|${REPOS[KIDDIN9]}"
     "luci-app-atcommands_|${REPOS[KIDDIN9]}"
     "tailscale_|${REPOS[KIDDIN9]}"
     
