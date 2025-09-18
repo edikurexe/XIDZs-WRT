@@ -164,9 +164,9 @@ jobs:
             ## XIDZs-WRT - INFORMATION ##
             - Default IP: 192.168.1.1
             - Default username: root
-            - Default password: xyyraa
-            - Default WIFI name: XIDZs-WRT | XIDZs-WRT_5G
-            - Default WIFI password: XIDZs2025
+            - Default password: root
+            - Default WIFI name: Masedikur | Masedikur_5G
+            - Default WIFI password: kopiSUSU
             - Disarankan Reboot Devices Setelah Succes Boot
             ## SUPPORTED DEVICES ##
             ### Raspberry Pi Series
