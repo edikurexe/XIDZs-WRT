@@ -12,7 +12,7 @@ on:
           - openwrt:24.10.4
           - openwrt:23.05.6
           - immortalwrt:24.10.4
-          - immortalwrt:23.05.6
+          - immortalwrt:23.05.7
       target:
         description: "Select device board"
         required: false
