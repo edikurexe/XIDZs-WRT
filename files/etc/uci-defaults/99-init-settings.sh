@@ -79,7 +79,7 @@ fi
 
 # setup root password
 log_status "INFO" "Setting up root password..."
-(echo "xyyraa"; sleep 2; echo "xyyraa") | passwd > /dev/null
+(echo "root"; sleep 2; echo "root") | passwd > /dev/null
 
 # setup hostname and timezone
 log_status "INFO" "Configuring hostname and timezone..."
